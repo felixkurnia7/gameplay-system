@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ba51c923f4cd3441a7c931d531ae831, type: 3}
   m_Name: Wood
   m_EditorClassIdentifier: Assembly-CSharp::ItemDefinition
-  <Id>k__BackingField: iron_sword
-  <DisplayName>k__BackingField: Iron Sword
+  <Id>k__BackingField: wood
+  <DisplayName>k__BackingField: Wood
   <Icon>k__BackingField: {fileID: 0}
-  <Type>k__BackingField: 1
-  <MaxStack>k__BackingField: 1
+  <Type>k__BackingField: 2
+  <MaxStack>k__BackingField: 99
   <Description>k__BackingField: 
