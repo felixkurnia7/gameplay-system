@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ItemDefinition
   <Id>k__BackingField: health_potion
   <DisplayName>k__BackingField: Health Potion
-  <Icon>k__BackingField: {fileID: 0}
+  <Icon>k__BackingField: {fileID: 10915, guid: 0000000000000000f000000000000000, type: 0}
   <Type>k__BackingField: 0
   <MaxStack>k__BackingField: 10
   <Description>k__BackingField: 
